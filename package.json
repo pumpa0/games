@@ -39,7 +39,7 @@
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
-        "@adiwajshing/baileys": "^4.1.0",
+        "@adiwajshing/baileys": "^4.2.0",
         "@bochilteam/scraper": "^2.0.0",
         "awesome-phonenumber": "^2.68.0",
         "axios": "^0.24.0",
@@ -69,7 +69,7 @@
         "similarity": "^1.2.1",
         "socket.io": "^4.4.1",
         "syntax-error": "^1.4.0",
-        "terminal-image": "^2.0.0",
+        "terminal-image": "^1.2.1",
         "url-regex-safe": "^3.0.0",
         "yargs": "^17.3.1"
     },

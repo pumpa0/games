@@ -18,7 +18,7 @@ let tags = {
   'fun': 'Fun',
   'premium': 'Premium',
   'database': 'Database',
-  'owner': 'Owner'
+  'owner': 'Owner',
 }
 const defaultMenu = {
   before: `

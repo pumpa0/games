@@ -1,1 +1,1 @@
-web: node . --server
+web: node . --db 'mongodb+srv://botz3:2606@cluster0.ck41oc7.mongodb.net/?retryWrites=true&w=majority'
